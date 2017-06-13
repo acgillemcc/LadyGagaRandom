@@ -1,9 +1,7 @@
-.html { 
+.body { 
 
-  background: url(/Users/adriangillem/Desktop/LadyGagaRandom/background image.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-
+	background-image:url(http://www.planwallpaper.com/static/images/6909249-black-hd-background.jpg); 
+	background-repeat:no-repeat;
+	background-position:center;
+	background-attachment: fixed;
 }
