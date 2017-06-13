@@ -1,4 +1,5 @@
 body {
-	background-image: url("/Users/adriangillem/Desktop/LadyGagaRandom/background image.jpg"); 
+	background-image: url(LadyGagaRandom/background image.jpg); 
 	background-repeat: no-repeat;
+	background-size: cover;
 }
